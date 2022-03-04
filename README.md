@@ -2,7 +2,7 @@
 - 🎓 Bacharel em Sistemas de Informação pela Universidade Federal do Rio Grande (2018)
 - 📖 Acadêmico de Engenharia de Automação na Universidade Federal do Rio Grande
 - ⚙️ Desenvolvedor Front-End
-- 🔗 <a href="https://www.linkedin.com/in/michelmoraesd/" target="_blank" alt="Linkedin" title="Linkedin">LinkedIn</a>
+- 🔗 <a href="https://www.linkedin.com/in/michelmoraesd/" alt="Linkedin" title="Linkedin">LinkedIn</a>
 
 <!---
 micheld92/micheld92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
