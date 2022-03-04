@@ -1,6 +1,6 @@
 - Autor: Michel Duarte
 - Bacharel em Sistemas de Informação pela Universidade Federal do Rio Grande (2018)
-- Acadêmico de Engenharia de Automação na Universidade federal do Rio Grande
+- Acadêmico de Engenharia de Automação na Universidade Federal do Rio Grande
 - Desenvolvedor Front-End
 
 <!---
